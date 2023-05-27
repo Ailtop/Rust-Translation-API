@@ -1,3 +1,3 @@
 # RustTranslationAPI
 
-[中文文档](./README.zh-CN.md)
+Provides translation APIs for Rust items, holdables, deployables, etc.
